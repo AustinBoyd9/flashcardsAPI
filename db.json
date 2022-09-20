@@ -8,17 +8,17 @@
     {
       "front": "What Is a Decision Tree?",
       "back": "Decision trees are a tool used to classify data and determine the possibility of defined outcomes in a system.",
-      "id": 1
+      "id": 2
     },
     {
       "front": "What Is Pruning in a Decision Tree Algorithm?",
       "back": "Pruning a decision tree is the process of eliminating non-critical subtrees so that the data under consideration is not overfitted. ",
-      "id": 1
+      "id": 3
     },
     {
       "front": "What Is Entropy in a Decision Tree Algorithm?",
       "back": "Entropy is a measure of the level of uncertainty or impurity that’s present in a dataset.  ",
-      "id": 1
+      "id": 4
     }
   ]
 }
